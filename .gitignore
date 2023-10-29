@@ -4,6 +4,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Environment
+.env
+*.env
+
 # IDE
 .vscode/
 .idea/
