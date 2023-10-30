@@ -3,7 +3,7 @@ import sys
 import os
 import binascii
 import string
-import base64
+module base64
 
 def load_env(path):
     env = {}
